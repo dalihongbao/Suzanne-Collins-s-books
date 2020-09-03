@@ -1,0 +1,2 @@
+C:\Users\Yifeng\Documents\GitHub\Suzanne-Collins-s-books\Suzanne-Collins-Books\Suzanne-Collins-Books\obj\Debug\Suzanne-Collins-Books.csprojAssemblyReference.cache
+C:\Users\Yifeng\Documents\GitHub\Suzanne-Collins-s-books\Suzanne-Collins-Books\Suzanne-Collins-Books\obj\Debug\Suzanne-Collins-Books.csproj.CoreCompileInputs.cache
